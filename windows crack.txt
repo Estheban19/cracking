@@ -1,0 +1,13 @@
+Descargar /¿( ¿Cómo usarlo
+Método Powefs hell (recomendado
+
++ Haga clic derecho en el menú Inicio de Windows y seleccione PowerShell o Terminal (no CMD).
++ Copie y pegue el código a continuación y presione enter
+
+irm https://getactivated.win | ¡ex
+o (obsoleto, se retirará el 31 de agosto de 2024, use lo anterior en su lugar)
+irm https://massgrave.dev/get | iex
+
++ Verás las opciones de activación. Sigue las instrucciones que aparecen en pantalla.
+
++ Eso es todo.
